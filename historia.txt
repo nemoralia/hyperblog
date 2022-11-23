@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 Ola bb que ta chendo, peliar? 
 nuevamente peliando
 
 AUXILIO RAUUUUUUUUUUUUUUUUUL
 AHORITA IRE A ENTRENAR
+=======
+Ola bb que ta chendo, peliar? 
+nuevamente peliando
+
+AUXILIO RAUUUUUUUUUUUUUUUUUL
+
+YA ESTOY APRENDIENDO
+>>>>>>> 467433e1cfea64417e6819c2f32988b8d9138f09
